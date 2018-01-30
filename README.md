@@ -1,11 +1,13 @@
 # vue-emoji
 一个web端的表情包
 安装和使用方法如下：
-1、npm install vue-emoji
+1、
+npm install vue-emoji
 
 2、
 import emo from "emo/emoji"
 import emoUtil from "emo/util"
+
 3、
 emoUtil里包括两个方法，用来格式化表情与文字互排的情况
 emo是一个vue组件，里面加载了png表情图片
